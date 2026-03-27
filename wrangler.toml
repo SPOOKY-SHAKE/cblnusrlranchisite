@@ -16,5 +16,5 @@ rules = [
 
 [env.production]
 routes = [
-  { pattern = "/*", zone_name = "your-domain.com" }
+  { pattern = "/*", zone_name = "cblnusrlranchisite" }
 ]
